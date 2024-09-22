@@ -1,0 +1,5 @@
+.vscode/
+/dist/
+*.vsix
+/node_modules/
+*.log
